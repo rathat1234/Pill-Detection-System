@@ -246,3 +246,6 @@ python main.py
 ## 개발 후기
 데이터 학습 및 판정에 여러 문제가 발생했지만 전처리 및 학습 데이터 다양화로 딥러닝 학습의 역량을 쌓을 수 있었고
 UI를 구현하면서 소프트웨어 구현에 대한 경험을 쌓을 수 있었습니다.
+
+## ppt
+https://docs.google.com/presentation/d/1p3S7rpzJ2QpmS3R89ISjqpDYUOK8gFRt/edit?usp=sharing&ouid=115454871694456413587&rtpof=true&sd=true
