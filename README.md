@@ -1,5 +1,15 @@
 # 💊 Pill Vision - 알약 분류 및 개수 카운팅 시스템
 
+
+## 🖥️ 프로그램 화면
+
+
+
+![picture](/assets/demo.png)
+
+
+---
+
 ## 📖 프로젝트 소개
 
 Pill Vision은 **YOLO 기반 객체 탐지 기술**을 활용하여 웹캠 영상에서 알약을 실시간으로 분류하고 개수를 카운팅하는 프로그램입니다.
@@ -35,14 +45,6 @@ https://www.youtube.com/shorts/AwRlnp96gTg
 
 ---
 
-## 🖥️ 프로그램 화면
-
-
-
-![picture](/assets/demo.png)
-
-
----
 
 ## ⚙️ 기술 스택
 
@@ -55,6 +57,8 @@ https://www.youtube.com/shorts/AwRlnp96gTg
 ### Deep Learning
 
 * YOLO (Ultralytics)
+
+![picture3](/assets/graph.png)
 
 ### Computer Vision
 
