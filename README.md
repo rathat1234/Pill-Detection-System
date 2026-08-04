@@ -26,9 +26,9 @@ Pill Vision은 **YOLO 기반 객체 탐지 기술**을 활용하여 웹캠 영�
 ## 🖥️ 프로그램 화면
 
 
-```
+
 ![picture](/assets/demo.png)
-```
+
 
 ---
 
