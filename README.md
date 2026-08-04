@@ -25,10 +25,9 @@ Pill Vision은 **YOLO 기반 객체 탐지 기술**을 활용하여 웹캠 영�
 
 ## 🖥️ 프로그램 화면
 
-> 프로그램 실행 화면은 아래 위치에 추가할 예정입니다.
 
 ```
-README 이미지 추가 예정
+![culling_1](assets/demo.png)
 ```
 
 ---
@@ -83,7 +82,7 @@ pill_vision/
 6. 클래스별 개수를 계산합니다.
 7. Bounding Box를 출력합니다.
 8. 사용자가 하루 복용량을 입력합니다.
-9. 남은 복용 가능 일수를 계산하여 출력합니다.
+9. 버튼 클릭시 남은 복용 가능 일수를 계산하여 출력합니다.
 
 ---
 
@@ -182,9 +181,9 @@ python main.py
 
 ## 📌 개발 환경
 
-* Python 3.x
+* Python 3.9.23
 * PySide6
-* OpenCV
+* OpenCV 4.10
 * Ultralytics YOLO
 
 ---
@@ -192,9 +191,6 @@ python main.py
 ## 📈 향후 개선 사항
 
 * 다양한 알약 클래스 지원
-* 처방전 OCR 연동
-* SQLite 기반 복약 기록 저장
-* 자동 복약 알림 기능
 * ONNX/TensorRT 최적화
 * Embedded AI 환경 지원
 
